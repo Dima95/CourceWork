@@ -101,6 +101,7 @@ namespace cource_worck
                 }
             }
         }
+
         public void List_fields(ref List<note> ls) // метод повертає список записів 
         {
             to_List();
